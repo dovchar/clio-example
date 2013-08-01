@@ -1,7 +1,7 @@
 package controllers
 
 import (
-    . "github.com/grsmv/clio/core"
+    . "github.com/pallada/clio/core"
 )
 
 type Work struct {
